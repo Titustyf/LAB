@@ -1,3 +1,4 @@
 # LAB
-//Hello world
-//IM new java beginner
+Hello world
+Im new java beginner
+Nice to meet you all
